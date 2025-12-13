@@ -1,0 +1,8 @@
+hello! welcome to the Vanadium Package Manager Repository pretty cool huh?
+
+there isnt much yet.. 
+
+
+i will include  a test package to test VPKGs and provide how does VPKG's work
+just so you yes you can port your app to VanadiumOS 
+(if a package isnt found VPM will go to the next package manager VanadiumOS is built on Arch Linux except my version will have changes so its not just another arch distro with a lousy script.)
